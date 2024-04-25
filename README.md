@@ -1,4 +1,5 @@
-# DNS_Attack_Detection_MajPro
+# Improving Robustness and Effective DNS Attack Detection using Neural Network
+
 
 ### Shivang Kainthola
 ### Ansh Pratap Singh
